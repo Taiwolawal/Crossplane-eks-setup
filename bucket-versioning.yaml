@@ -2,7 +2,7 @@
 apiVersion: s3.aws.upbound.io/v1beta1
 kind: BucketVersioning
 metadata:
-  name: crossplane-antonputra
+  name: crossplane-taiwo
 spec:
   forProvider:
     bucket: crossplane-bucket-eks
