@@ -5,7 +5,7 @@ metadata:
   name: crossplane-taiwo
 spec:
   forProvider:
-    bucket: crossplane-bucket-eks
+    bucket: crossplane-taiwo-eks
     region: us-east-2
     versioningConfiguration:
       - status: Enabled
